@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+## Welcome to my Page!
+---------------------------------------------------------------------------------------
 
-You can use the [editor on GitHub](https://github.com/chisomkun/ChisomOnyekachi/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Here are a few of the projects I have worked on. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# [Computer Help Desk](https://github.com/chisomkun/MyHelpDesk)
+* Allows users to manage and make request for their computers
+* The app was built using Spring Boot, MySQL , html and Angular JS. 
+* Users are prompted to login or register an account.
+* New requests are procesed and updated to the user. 
 
-### Markdown
+# [SlatBox](https://github.com/chisomkun/TweetClone)
+* Slaxbox is web app that allows users to post to a common message board. 
+* The app was created using React Js and Html for the client side user interface. 
+* MongoDB and Express were used for the database and setting up the server. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/chisomkun/ChisomOnyekachi/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+# [Chat Application](https://github.com/chisomkun/ChatApp)
+* Real time chat application that used Socket.io and Javascript
+* The user can enter the name of the chat room they want to join and can chat with other users in the room. 
+* Express and Socket.io were used to create communication between the client, server and other users in the room. 
