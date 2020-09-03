@@ -1,7 +1,4 @@
-## Welcome to my Page!
----------------------------------------------------------------------------------------
-
-Here are a few of the projects I have worked on. 
+## Welcome to my Project Repo
 
 # [Computer Help Desk](https://github.com/chisomkun/MyHelpDesk)
 * Allows users to manage and make request for their computers
