@@ -1,4 +1,6 @@
-## Welcome to my Project Repo
+## Welcome to My Portfolio!
+
+Here are some of my favorite projects thats I have worked on. 
 
 # [Computer Help Desk](https://github.com/chisomkun/MyHelpDesk)
 * Allows users to manage and make request for their computers
