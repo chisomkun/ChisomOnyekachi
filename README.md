@@ -8,7 +8,7 @@ Here are some of my favorite projects thats I have worked on.
 * Users are prompted to login or register an account.
 * New requests are procesed and updated to the user. 
 
-# [SlatBox](https://github.com/chisomkun/TweetClone)
+# [SlatBox](https://slatbox.herokuapp.com/)
 * Slaxbox is web app that allows users to post to a common message board. 
 * The app was created using React Js and Html for the client side user interface. 
 * MongoDB and Express were used for the database and setting up the server. 
