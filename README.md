@@ -15,7 +15,10 @@ Here are some of my favorite projects thats I have worked on.
 * [Deployed App!](https://slatbox.herokuapp.com/)
 
 
-# [Chat Application](https://github.com/chisomkun/ChatApp)
+# [Chat Application-livelink](https://5f9715632a9d6b59f47095b6--stoic-clarke-f0e430.netlify.app/)
 * Real time chat application that used Socket.io and Javascript
 * The user can enter the name of the chat room they want to join and can chat with other users in the room. 
-* Express and Socket.io were used to create communication between the client, server and other users in the room. 
+* Express and Socket.io were used to create communication between the client, server and other users in the room.
+* [See on Github!](https://5f9715632a9d6b59f47095b6--stoic-clarke-f0e430.netlify.app/)
+
+
