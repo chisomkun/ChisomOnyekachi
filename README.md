@@ -21,9 +21,9 @@ Here are some of my favorite projects thats I have worked on.
 * Express and Socket.io were used to create communication between the client, server and other users in the room.
 * [See on Github!](https://5f9715632a9d6b59f47095b6--stoic-clarke-f0e430.netlify.app/)
 
-#[Recommendation Engine](https://github.com/chisomkun/AnimeEngine)
-*Allows users to get Anime Recomendations based on an Anime that they liked
-*Built using Django, utilized PostgreSQL for data storage and HTML/CSS for design and webpage styling
-*User enters an Anime that they have watched into the search bar and the engine will display 5 recomendations intially then 5 more if the user clicks the "More" button
+# [Recommendation Engine](https://github.com/chisomkun/AnimeEngine)
+* Allows users to get Anime Recomendations based on an Anime that they liked
+* Built using Django, utilized PostgreSQL for data storage and HTML/CSS for design and webpage styling
+* User enters an Anime that they have watched into the search bar and the engine will display 5 recomendations intially then 5 more if the user clicks the "More" button
 
 
